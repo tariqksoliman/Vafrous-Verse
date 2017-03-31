@@ -1,0 +1,19 @@
+{
+  "name": "vafrous-verse",
+  "version": "1.0.0",
+  "description": "A little web app to help one write poetry by ensuring proper line count, syllable count and rhyme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tariqksoliman/Vafrous-Verse.git"
+  },
+  "author": "Tariq Soliman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tariqksoliman/Vafrous-Verse/issues"
+  },
+  "homepage": "https://github.com/tariqksoliman/Vafrous-Verse#readme"
+}

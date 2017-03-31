@@ -1,0 +1,14 @@
+@font-face {
+    font-family: freebooter;
+    src: url(fonts/FreebooterScript.ttf);
+}
+
+body {
+    background-color: #f9f3ec;
+}
+
+#title {
+    text-align: center;
+    font-family: freebooter;
+    font-size: 80px;
+}
